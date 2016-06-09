@@ -1,4 +1,43 @@
+body {
+  background-color: floralwhite;
+  font-family: sans-serif;
+}
+
+p {
+  margin: 7px;
+}
+
+h1 {
+  font-family: 'Fredoka One', cursive;
+  text-align: center;
+  font-weight: bold;
+  color: tomato;
+}
+
 .column {
   width: 200px;
   float: left;
+}
+
+.column img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.column h3 {
+  color: darkblue;
+  text-decoration: underline;
+}
+
+.column li {
+  list-style-type: none;
+  padding: 3px;
+  text-align: justify;
+}
+
+.sidebar {
+  width: 20%;
+  float: right;
+  background-color: aquamarine;
 }
