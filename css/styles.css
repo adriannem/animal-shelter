@@ -4,7 +4,7 @@ body {
 }
 
 p {
-  margin: 5px;
+  margin: 3%px;
 }
 
 h1 {
@@ -15,7 +15,7 @@ h1 {
 }
 
 .column {
-  width: 210px;
+  width: 16%;
   float: left;
 }
 
@@ -32,7 +32,7 @@ h1 {
 
 .column li {
   list-style-type: none;
-  padding: 3px;
+  padding: 10%;
   text-align: justify;
 }
 
