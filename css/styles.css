@@ -46,3 +46,7 @@ h1 {
 .column p a {
   color: red;
 }
+
+footer {
+  float: left;
+}
